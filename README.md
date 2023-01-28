@@ -8,5 +8,5 @@ This is purely for practice reasons.
 - `git add .`
 ```bash
 - git commit -m "message"
-- `git push -u origin main`  
+- git push -u origin main 
 ```
